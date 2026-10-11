@@ -1,0 +1,338 @@
+{
+ "MEX": {
+  "en": "Mexico",
+  "ar": "المكسيك",
+  "flag": "mx",
+  "region": "na",
+  "pattern": "repeating-linear-gradient(45deg, transparent 0 8px, rgba(0,104,71,.25) 8px 9px, transparent 9px 17px), repeating-linear-gradient(135deg, rgba(206,17,38,.28) 0 6px, transparent 6px 12px), repeating-conic-gradient(from 45deg at 50% 50%, rgba(244,239,223,.2) 0deg 90deg, transparent 90deg 180deg) 0 0/24px 24px"
+ },
+ "RSA": {
+  "en": "South Africa",
+  "ar": "جنوب أفريقيا",
+  "flag": "za",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(90deg, rgba(0,119,73,.25) 0 6px, rgba(252,184,37,.2) 6px 9px, rgba(206,17,38,.25) 9px 15px), repeating-linear-gradient(0deg, transparent 0 10px, rgba(0,0,0,.08) 10px 11px)"
+ },
+ "KOR": {
+  "en": "South Korea",
+  "ar": "كوريا الجنوبية",
+  "flag": "kr",
+  "region": "as",
+  "pattern": "radial-gradient(circle at 30% 40%, rgba(205,46,58,.3) 0%, transparent 50%), repeating-linear-gradient(90deg, rgba(0,71,160,.2) 0 8px, rgba(205,46,58,.2) 8px 16px)"
+ },
+ "CZE": {
+  "en": "Czechia",
+  "ar": "تشيكيا",
+  "flag": "cz",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(45deg, rgba(215,20,26,.28) 0 10px, rgba(17,69,126,.28) 10px 20px), repeating-linear-gradient(135deg, transparent 0 5px, rgba(255,255,255,.12) 5px 6px)"
+ },
+ "CAN": {
+  "en": "Canada",
+  "ar": "كندا",
+  "flag": "ca",
+  "region": "na",
+  "pattern": "repeating-linear-gradient(0deg, rgba(216,6,33,.3) 0 9px, rgba(244,239,223,.25) 9px 13px, rgba(216,6,33,.3) 13px 22px), radial-gradient(circle at 50% 50%, rgba(244,239,223,.2) 0%, transparent 60%)"
+ },
+ "BIH": {
+  "en": "Bosnia & Herz.",
+  "ar": "البوسنة والهرسك",
+  "flag": "ba",
+  "region": "eu",
+  "pattern": "repeating-conic-gradient(from 45deg at 50% 50%, rgba(0,46,122,.3) 0deg 45deg, rgba(252,196,49,.25) 45deg 90deg) 0 0/20px 20px, repeating-linear-gradient(90deg, transparent 0 3px, rgba(0,0,0,.08) 3px 4px)"
+ },
+ "USA": {
+  "en": "USA",
+  "ar": "أمريكا",
+  "flag": "us",
+  "region": "na",
+  "pattern": "repeating-linear-gradient(0deg, rgba(60,59,110,.28) 0 6px, rgba(178,34,52,.28) 6px 12px), radial-gradient(circle at 15% 20%, rgba(244,239,223,.15) 0%, transparent 50%)"
+ },
+ "PAR": {
+  "en": "Paraguay",
+  "ar": "باراغواي",
+  "flag": "py",
+  "region": "sa",
+  "pattern": "repeating-linear-gradient(45deg, rgba(213,43,30,.26) 0 9px, rgba(0,56,168,.26) 9px 18px), repeating-linear-gradient(135deg, transparent 0 6px, rgba(255,255,255,.1) 6px 7px)"
+ },
+ "QAT": {
+  "en": "Qatar",
+  "ar": "قطر",
+  "flag": "qa",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(90deg, rgba(138,21,56,.28) 0 8px, rgba(244,239,223,.2) 8px 11px, transparent 11px 22px), repeating-linear-gradient(0deg, transparent 0 4px, rgba(0,0,0,.06) 4px 5px)"
+ },
+ "SUI": {
+  "en": "Switzerland",
+  "ar": "سويسرا",
+  "flag": "ch",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(90deg, rgba(218,41,28,.26) 0 12px, rgba(244,239,223,.22) 12px 16px), repeating-conic-gradient(from 0deg at 50% 50%, rgba(218,41,28,.15) 0deg 90deg, transparent 90deg 180deg) 0 0/28px 28px"
+ },
+ "BRA": {
+  "en": "Brazil",
+  "ar": "البرازيل",
+  "flag": "br",
+  "region": "sa",
+  "pattern": "repeating-linear-gradient(45deg, rgba(0,156,59,.28) 0 12px, rgba(255,223,0,.22) 12px 20px), repeating-linear-gradient(135deg, transparent 0 8px, rgba(2,2,118,.1) 8px 9px)"
+ },
+ "MAR": {
+  "en": "Morocco",
+  "ar": "المغرب",
+  "flag": "ma",
+  "region": "af",
+  "pattern": "repeating-conic-gradient(from 45deg at 50% 50%, rgba(193,39,45,.32) 0deg 90deg, rgba(0,98,51,.32) 90deg 180deg, rgba(255,255,255,.15) 180deg 270deg) 0 0/18px 18px, repeating-linear-gradient(90deg, transparent 0 2px, rgba(0,0,0,.1) 2px 3px)"
+ },
+ "HAI": {
+  "en": "Haiti",
+  "ar": "هايتي",
+  "flag": "ht",
+  "region": "na",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,32,159,.28) 0 8px, rgba(210,16,52,.28) 8px 16px), radial-gradient(circle at 30% 40%, rgba(255,200,0,.2) 0%, transparent 50%)"
+ },
+ "SCO": {
+  "en": "Scotland",
+  "ar": "اسكتلندا",
+  "flag": "gb-sct",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(45deg, rgba(0,93,164,.25) 0 6px, rgba(255,255,255,.15) 6px 7px, transparent 7px 12px), repeating-linear-gradient(135deg, transparent 0 6px, rgba(0,93,164,.15) 6px 7px)"
+ },
+ "AUS": {
+  "en": "Australia",
+  "ar": "أستراليا",
+  "flag": "au",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(90deg, rgba(0,132,61,.26) 0 8px, rgba(255,205,0,.22) 8px 12px), radial-gradient(circle at 40% 40%, rgba(0,132,61,.15) 0%, transparent 55%)"
+ },
+ "TUR": {
+  "en": "Türkiye",
+  "ar": "تركيا",
+  "flag": "tr",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(45deg, transparent 0 8px, rgba(227,10,23,.2) 8px 10px), repeating-conic-gradient(from 30deg at 50% 50%, rgba(244,239,223,.2) 0deg 60deg, transparent 60deg 120deg) 0 0/20px 20px"
+ },
+ "GER": {
+  "en": "Germany",
+  "ar": "ألمانيا",
+  "flag": "de",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(0deg, rgba(221,0,0,.26) 0 8px, rgba(255,206,0,.2) 8px 16px), repeating-linear-gradient(90deg, transparent 0 4px, rgba(0,0,0,.08) 4px 5px)"
+ },
+ "CUW": {
+  "en": "Curaçao",
+  "ar": "كوراساو",
+  "flag": "cw",
+  "region": "na",
+  "pattern": "repeating-linear-gradient(90deg, rgba(0,42,143,.28) 0 10px, rgba(249,225,1,.22) 10px 14px), repeating-linear-gradient(45deg, transparent 0 5px, rgba(255,255,255,.1) 5px 6px)"
+ },
+ "NED": {
+  "en": "Netherlands",
+  "ar": "هولندا",
+  "flag": "nl",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(0deg, rgba(255,79,0,.26) 0 10px, rgba(33,70,139,.26) 10px 20px), radial-gradient(circle at 50% 50%, rgba(255,255,255,.1) 0%, transparent 60%)"
+ },
+ "JPN": {
+  "en": "Japan",
+  "ar": "اليابان",
+  "flag": "jp",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(0deg, transparent 0 8px, rgba(188,0,45,.25) 8px 12px), repeating-linear-gradient(45deg, rgba(244,239,223,.15) 0 3px, transparent 3px 6px)"
+ },
+ "CIV": {
+  "en": "Ivory Coast",
+  "ar": "ساحل العاج",
+  "flag": "ci",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(0deg, rgba(247,126,0,.26) 0 10px, rgba(255,255,255,.15) 10px 12px, rgba(0,154,68,.26) 12px 22px)"
+ },
+ "ECU": {
+  "en": "Ecuador",
+  "ar": "الإكوادور",
+  "flag": "ec",
+  "region": "sa",
+  "pattern": "repeating-linear-gradient(0deg, rgba(255,221,0,.25) 0 8px, rgba(0,114,206,.25) 8px 16px), repeating-linear-gradient(90deg, transparent 0 5px, rgba(0,0,0,.08) 5px 6px)"
+ },
+ "SWE": {
+  "en": "Sweden",
+  "ar": "السويد",
+  "flag": "se",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(90deg, rgba(0,106,167,.26) 0 12px, rgba(254,204,0,.22) 12px 18px), repeating-linear-gradient(45deg, transparent 0 6px, rgba(255,255,255,.1) 6px 7px)"
+ },
+ "TUN": {
+  "en": "Tunisia",
+  "ar": "تونس",
+  "flag": "tn",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(45deg, rgba(231,0,19,.26) 0 8px, rgba(244,239,223,.2) 8px 11px), repeating-conic-gradient(from 0deg at 50% 50%, rgba(231,0,19,.15) 0deg 90deg, transparent 90deg 180deg) 0 0/22px 22px"
+ },
+ "ESP": {
+  "en": "Spain",
+  "ar": "إسبانيا",
+  "flag": "es",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(0deg, rgba(170,21,27,.28) 0 8px, rgba(241,191,0,.2) 8px 16px), repeating-linear-gradient(45deg, transparent 0 4px, rgba(0,0,0,.08) 4px 5px)"
+ },
+ "CPV": {
+  "en": "Cape Verde",
+  "ar": "الرأس الأخضر",
+  "flag": "cv",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,58,135,.26) 0 6px, rgba(247,209,22,.22) 6px 9px, rgba(0,0,0,.1) 9px 18px)"
+ },
+ "BEL": {
+  "en": "Belgium",
+  "ar": "بلجيكا",
+  "flag": "be",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(0deg, rgba(237,41,57,.26) 0 10px, rgba(250,224,66,.2) 10px 20px), repeating-linear-gradient(90deg, transparent 0 3px, rgba(0,0,0,.08) 3px 4px)"
+ },
+ "EGY": {
+  "en": "Egypt",
+  "ar": "مصر",
+  "flag": "eg",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(45deg, rgba(206,17,38,.26) 0 10px, rgba(192,154,62,.22) 10px 20px), repeating-conic-gradient(from 45deg at 50% 50%, rgba(206,17,38,.12) 0deg 90deg, transparent 90deg 180deg) 0 0/24px 24px"
+ },
+ "KSA": {
+  "en": "Saudi Arabia",
+  "ar": "السعودية",
+  "flag": "sa",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(45deg, transparent 0 6px, rgba(142,31,31,.25) 6px 8px, transparent 8px 14px), repeating-linear-gradient(135deg, rgba(201,184,150,.2) 0 4px, transparent 4px 8px), repeating-conic-gradient(from 0deg at 50% 50%, rgba(22,93,49,.24) 0deg 45deg, transparent 45deg 90deg) 0 0/20px 20px"
+ },
+ "URU": {
+  "en": "Uruguay",
+  "ar": "الأوروغواي",
+  "flag": "uy",
+  "region": "sa",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,56,168,.26) 0 7px, rgba(252,209,22,.2) 7px 10px, rgba(0,0,0,.08) 10px 14px), repeating-linear-gradient(90deg, transparent 0 5px, rgba(255,255,255,.1) 5px 6px)"
+ },
+ "IRN": {
+  "en": "Iran",
+  "ar": "إيران",
+  "flag": "ir",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(0deg, rgba(35,159,64,.26) 0 8px, rgba(255,255,255,.12) 8px 10px, rgba(218,0,0,.26) 10px 18px), repeating-linear-gradient(45deg, transparent 0 4px, rgba(0,0,0,.08) 4px 5px)"
+ },
+ "NZL": {
+  "en": "New Zealand",
+  "ar": "نيوزيلندا",
+  "flag": "nz",
+  "region": "oc",
+  "pattern": "repeating-linear-gradient(90deg, rgba(40,40,46,.26) 0 10px, rgba(160,168,180,.22) 10px 16px), repeating-linear-gradient(45deg, transparent 0 5px, rgba(255,255,255,.1) 5px 6px)"
+ },
+ "FRA": {
+  "en": "France",
+  "ar": "فرنسا",
+  "flag": "fr",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,85,164,.28) 0 8px, rgba(255,255,255,.1) 8px 10px, rgba(239,65,53,.28) 10px 18px)"
+ },
+ "SEN": {
+  "en": "Senegal",
+  "ar": "السنغال",
+  "flag": "sn",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,133,62,.26) 0 9px, rgba(253,239,19,.2) 9px 13px, rgba(206,17,38,.26) 13px 22px), repeating-linear-gradient(45deg, transparent 0 3px, rgba(0,0,0,.08) 3px 4px)"
+ },
+ "IRQ": {
+  "en": "Iraq",
+  "ar": "العراق",
+  "flag": "iq",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(0deg, rgba(206,17,38,.26) 0 8px, rgba(0,0,0,.1) 8px 9px, rgba(0,122,61,.26) 9px 17px), repeating-linear-gradient(45deg, transparent 0 6px, rgba(255,255,255,.1) 6px 7px)"
+ },
+ "NOR": {
+  "en": "Norway",
+  "ar": "النرويج",
+  "flag": "no",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(0deg, rgba(186,12,47,.26) 0 10px, rgba(244,239,223,.15) 10px 14px, rgba(0,32,91,.26) 14px 24px), repeating-linear-gradient(90deg, transparent 0 4px, rgba(0,0,0,.08) 4px 5px)"
+ },
+ "ARG": {
+  "en": "Argentina",
+  "ar": "الأرجنتين",
+  "flag": "ar",
+  "region": "sa",
+  "pattern": "repeating-linear-gradient(0deg, rgba(117,170,219,.26) 0 9px, rgba(244,239,223,.2) 9px 12px), repeating-linear-gradient(45deg, transparent 0 5px, rgba(0,0,0,.08) 5px 6px)"
+ },
+ "ALG": {
+  "en": "Algeria",
+  "ar": "الجزائر",
+  "flag": "dz",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,98,51,.26) 0 8px, rgba(255,255,255,.12) 8px 10px, rgba(210,16,52,.26) 10px 18px), repeating-conic-gradient(from 45deg at 50% 50%, rgba(0,98,51,.15) 0deg 90deg, transparent 90deg 180deg) 0 0/20px 20px"
+ },
+ "AUT": {
+  "en": "Austria",
+  "ar": "النمسا",
+  "flag": "at",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(0deg, rgba(237,41,57,.28) 0 8px, rgba(244,239,223,.15) 8px 11px), repeating-linear-gradient(45deg, transparent 0 4px, rgba(237,41,57,.12) 4px 5px)"
+ },
+ "JOR": {
+  "en": "Jordan",
+  "ar": "الأردن",
+  "flag": "jo",
+  "region": "as",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,122,61,.26) 0 9px, rgba(206,17,38,.26) 9px 18px), repeating-linear-gradient(45deg, transparent 0 6px, rgba(255,200,100,.1) 6px 7px)"
+ },
+ "POR": {
+  "en": "Portugal",
+  "ar": "البرتغال",
+  "flag": "pt",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(90deg, rgba(0,102,0,.26) 0 10px, rgba(255,0,0,.26) 10px 20px), repeating-linear-gradient(0deg, transparent 0 4px, rgba(0,0,0,.08) 4px 5px)"
+ },
+ "COD": {
+  "en": "DR Congo",
+  "ar": "الكونغو الديمقراطية",
+  "flag": "cd",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,127,255,.26) 0 9px, rgba(255,255,255,.12) 9px 11px, rgba(247,214,5,.2) 11px 20px)"
+ },
+ "ENG": {
+  "en": "England",
+  "ar": "إنجلترا",
+  "flag": "gb-eng",
+  "region": "eu",
+  "pattern": "repeating-linear-gradient(90deg, rgba(200,16,46,.28) 0 14px, rgba(244,239,223,.15) 14px 18px), repeating-linear-gradient(45deg, transparent 0 5px, rgba(0,0,0,.08) 5px 6px)"
+ },
+ "CRO": {
+  "en": "Croatia",
+  "ar": "كرواتيا",
+  "flag": "hr",
+  "region": "eu",
+  "pattern": "repeating-conic-gradient(rgba(200,16,46,.32) 0 25%, rgba(244,239,223,.22) 0 50%) 0 0/14px 14px, repeating-linear-gradient(45deg, transparent 0 3px, rgba(0,0,0,.1) 3px 4px)"
+ },
+ "GHA": {
+  "en": "Ghana",
+  "ar": "غانا",
+  "flag": "gh",
+  "region": "af",
+  "pattern": "repeating-linear-gradient(0deg, rgba(229,184,11,.26) 0 8px, rgba(0,107,63,.26) 8px 16px, rgba(206,17,38,.26) 16px 24px), repeating-linear-gradient(90deg, transparent 0 3px, rgba(0,0,0,.08) 3px 4px)"
+ },
+ "PAN": {
+  "en": "Panama",
+  "ar": "بنما",
+  "flag": "pa",
+  "region": "na",
+  "pattern": "repeating-linear-gradient(0deg, rgba(0,56,168,.26) 0 10px, rgba(255,255,255,.1) 10px 12px, rgba(210,16,52,.26) 12px 22px)"
+ },
+ "UZB": {
+  "en": "Uzbekistan",
+  "ar": "أوزبكستان",
+  "flag": "uz",
+  "region": "as",
+  "pattern": "repeating-conic-gradient(from 45deg at 50% 50%, rgba(0,153,181,.28) 0deg 90deg, rgba(30,181,58,.28) 90deg 180deg) 0 0/18px 18px, repeating-linear-gradient(90deg, transparent 0 2px, rgba(0,0,0,.1) 2px 3px)"
+ },
+ "COL": {
+  "en": "Colombia",
+  "ar": "كولومبيا",
+  "flag": "co",
+  "region": "sa",
+  "pattern": "repeating-linear-gradient(0deg, rgba(252,209,22,.25) 0 9px, rgba(0,56,168,.25) 9px 18px), repeating-linear-gradient(45deg, transparent 0 4px, rgba(0,0,0,.08) 4px 5px)"
+ }
+}

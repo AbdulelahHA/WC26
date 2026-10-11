@@ -1,0 +1,21 @@
+@media (max-width:920px){ .grid{grid-template-columns:1fr} }
+@media (max-width:520px){
+  .wrap{padding:30px 12px 70px}
+  .tname{font-size:.76rem}
+  .mid{width:58px}
+  .ktime{font-size:.92rem}
+  h1{font-size:1.9rem}
+  .day-head{padding:12px 13px 9px}
+  .match{padding:9px 9px 8px}
+  .half{padding:6px 7px;gap:6px}
+  .loc{font-size:.62rem}
+  .ko-title{font-size:1.25rem}
+  .groups-wrap{grid-template-columns:1fr}
+  #wc-ball{opacity:.75}
+  #wc-ball svg,#wc-ball img{width:38px;height:38px}
+}
+@media (max-width:380px){
+  .tname{font-size:.7rem}
+  .mid{width:50px}
+  .half img{width:20px;height:14px}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "wc26",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "serve": "npx --yes serve@14.2.4 -l 5173 ."
+  }
+}

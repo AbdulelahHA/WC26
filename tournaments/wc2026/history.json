@@ -1,0 +1,103 @@
+{
+ "winners": [
+  {
+   "en": "Brazil",
+   "ar": "البرازيل",
+   "flag": "br",
+   "titles": 5
+  },
+  {
+   "en": "Germany",
+   "ar": "ألمانيا",
+   "flag": "de",
+   "titles": 4
+  },
+  {
+   "en": "Italy",
+   "ar": "إيطاليا",
+   "flag": "it",
+   "titles": 4
+  },
+  {
+   "en": "Argentina",
+   "ar": "الأرجنتين",
+   "flag": "ar",
+   "titles": 3
+  },
+  {
+   "en": "France",
+   "ar": "فرنسا",
+   "flag": "fr",
+   "titles": 2
+  },
+  {
+   "en": "Uruguay",
+   "ar": "الأوروغواي",
+   "flag": "uy",
+   "titles": 2
+  },
+  {
+   "en": "England",
+   "ar": "إنجلترا",
+   "flag": "gb-eng",
+   "titles": 1
+  },
+  {
+   "en": "Spain",
+   "ar": "إسبانيا",
+   "flag": "es",
+   "titles": 1
+  }
+ ],
+ "scorers": [
+  {
+   "name": "Miroslav Klose",
+   "flag": "de",
+   "goals": 16
+  },
+  {
+   "name": "Ronaldo",
+   "flag": "br",
+   "goals": 15
+  },
+  {
+   "name": "Gerd Müller",
+   "flag": "de",
+   "goals": 14
+  },
+  {
+   "name": "Just Fontaine",
+   "flag": "fr",
+   "goals": 13
+  },
+  {
+   "name": "Lionel Messi",
+   "flag": "ar",
+   "goals": 13
+  },
+  {
+   "name": "Pelé",
+   "flag": "br",
+   "goals": 12
+  },
+  {
+   "name": "Kylian Mbappé",
+   "flag": "fr",
+   "goals": 12
+  },
+  {
+   "name": "Sándor Kocsis",
+   "flag": "hu",
+   "goals": 11
+  },
+  {
+   "name": "Jürgen Klinsmann",
+   "flag": "de",
+   "goals": 11
+  }
+ ],
+ "activeScorers": {
+  "messi": "Lionel Messi",
+  "mbappe": "Kylian Mbappé"
+ }
+}

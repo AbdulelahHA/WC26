@@ -1,0 +1,24 @@
+/* ===== 3-PAGE LAYOUT + BOTTOM NAV ===== */
+.page[hidden]{display:none !important}
+.wrap{padding-bottom:96px} /* room for the fixed bottom nav */
+#bottom-nav{
+  position:fixed;left:0;right:0;bottom:0;z-index:60;
+  display:flex;justify-content:space-around;align-items:stretch;
+  padding:8px 6px calc(8px + env(safe-area-inset-bottom));
+  background:linear-gradient(0deg,var(--card-bot),var(--card-top));
+  border-top:1px solid var(--card-border);
+  box-shadow:0 -10px 30px -12px rgba(0,0,0,.6);
+  backdrop-filter:blur(8px);
+}
+.bnav-btn{
+  flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;cursor:pointer;
+  background:transparent;border:none;padding:6px 4px;border-radius:10px;transition:background .18s;
+}
+.bnav-btn svg{width:23px;height:23px;stroke:var(--sand);transition:stroke .2s,transform .2s}
+.bnav-label{font-family:'Cinzel',serif;font-weight:600;font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--sand);transition:color .2s}
+body.ar .bnav-label{font-family:'Changa',sans-serif;letter-spacing:0}
+.bnav-btn:hover svg{stroke:var(--gold)}
+.bnav-btn.active svg{stroke:var(--gold);transform:translateY(-1px)}
+.bnav-btn.active .bnav-label{color:var(--gold)}
+.bnav-btn.active{background:rgba(184,144,47,.08)}
+
